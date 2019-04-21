@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: AlfGuard Fuck Anti Adblock
+! Title: AlfGuard Anti Adblock Beta
 ! Last modified: 2019-04-21 22:57:46
 ! Author: Alf Shumway
 ! Expires: 3 hours
