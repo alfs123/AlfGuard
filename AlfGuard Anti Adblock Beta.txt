@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: AlfGuard Fuck Anti Adblock
+! Last modified: 2019-04-21 22:57:46
+! Author: Alf Shumway
+! Expires: 3 hours
+! Homepage: https://github.com/alfs123/AlfGuard
+! Licence: https://raw.githubusercontent.com/alfs123/AlfGuard Anti Adblock Beta/master/LICENSE.md
+! Description: Filters for anti-adblock bypass.
+
+fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=fox.com.tr
