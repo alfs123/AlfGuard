@@ -4,7 +4,7 @@
 ! Author: Alf Shumway
 ! Expires: 3 hours
 ! Homepage: https://github.com/alfs123/AlfGuard
-! Licence: https://raw.githubusercontent.com/alfs123/AlfGuard Anti Adblock Beta/master/LICENSE.md
+! Licence: https://raw.githubusercontent.com/alfs123/AlfGuardAntiAdblockBeta/master/LICENSE.md
 ! Description: Filters for anti-adblock bypass.
 
 fox.com.tr##+js(set-constant.js, adblockDetector, trueFunc)
